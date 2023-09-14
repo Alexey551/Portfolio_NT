@@ -1,0 +1,6 @@
+  2023-06-15 07:08:31.613 : IterationNum=1	[MsgId: MMSG-17999]
+   USER 1 = user31:pwd31	[MsgId: MMSG-17999]
+Login.c(9): Error -27792: Failed to connect to server "localhost:1080": [10061] Connection refused  	[MsgId: MERR-27792]
+  2023-06-15 07:08:41.072 : IterationNum=1	[MsgId: MMSG-17999]
+   USER 1 = user34:pwd34	[MsgId: MMSG-17999]
+Login.c(9): Error -27792: Failed to connect to server "localhost:1080": [10061] Connection refused  	[MsgId: MERR-27792]

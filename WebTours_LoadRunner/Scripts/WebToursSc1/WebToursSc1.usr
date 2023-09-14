@@ -1,0 +1,80 @@
+[General]
+Type=Multi
+DefaultCfg=default.cfg
+ParameterFile=WebToursSc1.prm
+GlobalParameterFile=
+NewFunctionHeader=1
+RunType=cci
+ActionLogicExt=action_logic
+LastActiveAction=Action
+MajorVersion=12
+MinorVersion=55
+ActiveTypes=QTWeb
+GenerateTypes=QTWeb
+AdditionalTypes=QTWeb
+DevelopTool=Vugen
+LastModifyVer=12.55.0.911
+ParamLeftBrace={
+ParamRightBrace=}
+ScriptLanguage=C
+LastCodeGenerationVer=
+DisableRegenerate=0
+Encoding=
+Description=
+ScriptLocale=ru-RU
+[Actions]
+vuser_init=vuser_init.c
+Login=Login.c
+Action=Action.c
+Logout=Logout.c
+vuser_end=vuser_end.c
+[RunLogicFiles]
+Default Profile=default.usp
+[VuserProfiles]
+Profiles=Default Profile
+[CfgFiles]
+Default Profile=default.cfg
+[ExtraFiles]
+globals.h=
+[Modified Actions]
+vuser_init=0
+Login=1
+Action=1
+Logout=1
+vuser_end=0
+[Recorded Actions]
+vuser_init=0
+Login=0
+Action=0
+Logout=0
+vuser_end=0
+[Replayed Actions]
+vuser_init=1
+Login=1
+Action=1
+Logout=1
+vuser_end=1
+[Interpreters]
+vuser_init=cci
+Login=cci
+Action=cci
+Logout=cci
+vuser_end=cci
+[TransactionsOrder]
+Order="00_OpenStartPage__*delimiter*__01_DoLogin__*delimiter*__02_OpenFlights__*delimiter*__03_DoSearchRoundTripTicket__*delimiter*__04_SelectionRandomRoundTripFlights__*delimiter*__05_CompletionBooking__*delimiter*__06_GoToHomePage__*delimiter*__07_ OpeningBookingList__*delimiter*__08_ DeletingBooking__*delimiter*__09_ DoLogout"
+[StateManagement]
+LastReplayStatus=1
+[ActiveReplay]
+LastReplayedRunName=result1
+ActiveRunName=result1
+[Transactions]
+00_OpenStartPage=
+01_DoLogin=
+02_OpenFlights=
+03_DoSearchRoundTripTicket=
+04_SelectionRandomRoundTripFlights=
+05_CompletionBooking=
+06_GoToHomePage=
+"07_ OpeningBookingList"=
+"08_ DeletingBooking"=
+"09_ DoLogout"=

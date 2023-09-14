@@ -1,0 +1,5 @@
+[Diagnostics]
+Status=-1
+[Collate Recovery]
+Scenario=C:\LoadTesting\WebTours\Scenario\ScenarioWebTours_20230615_maxperf_control.lrs
+Completed=0

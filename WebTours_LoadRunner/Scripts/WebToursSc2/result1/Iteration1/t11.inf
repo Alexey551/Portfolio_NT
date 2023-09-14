@@ -1,0 +1,13 @@
+[t11]
+SnapshotXmlFile=snapshot_12.xml
+ContentType=text/html
+StepName=Url: reservations.pl
+Total=1
+FileName1=t11.html
+RequestHeaderFile=t11_RequestHeader.txt
+ResponseHeaderFile=t11_ResponseHeader.txt
+RawStepEndTime=1686572477972
+RawStepName=
+RequestBodyFile=t11_RequestBody.txt
+RawStepStartTime=1686572477988
+URL1=http://localhost:1080/cgi-bin/nav.pl?page=menu&in=flights

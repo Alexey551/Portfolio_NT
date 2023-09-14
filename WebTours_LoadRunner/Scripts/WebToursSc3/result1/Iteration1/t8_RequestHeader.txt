@@ -1,0 +1,9 @@
+GET /cgi-bin/nav.pl?page=menu&in=home HTTP/1.1
+Referer: http://localhost:1080/cgi-bin/login.pl
+User-Agent: Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0)
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: Keep-Alive
+Host: localhost:1080
+Cookie: MSO=SID&1686572744; MTUserInfo=firstName&_Michaela&address2&_New%20Freida&username&user61&hash&113&lastName&_Stanton%0A&address1&_Port%20Clairberg&creditCard&&expDate&%0A
+

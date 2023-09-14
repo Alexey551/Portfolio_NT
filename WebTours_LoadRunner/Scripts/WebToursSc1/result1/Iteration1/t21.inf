@@ -1,0 +1,13 @@
+[t21]
+SnapshotXmlFile=snapshot_21.xml
+ContentType=text/html
+StepName=Url: nav.pl_5
+Total=1
+FileName1=t21.html
+RequestHeaderFile=t21_RequestHeader.txt
+ResponseHeaderFile=t21_ResponseHeader.txt
+RawStepEndTime=1691256491777
+RawStepName=
+RequestBodyFile=t21_RequestBody.txt
+RawStepStartTime=1691256491779
+URL1=http://localhost:1080/cgi-bin/nav.pl?page=menu&in=itinerary

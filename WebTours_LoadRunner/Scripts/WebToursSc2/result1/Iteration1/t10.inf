@@ -1,0 +1,13 @@
+[t10]
+SnapshotXmlFile=snapshot_10.xml
+ContentType=text/html
+StepName=Url: Search Flights Button
+Total=1
+FileName1=t10.html
+RequestHeaderFile=t10_RequestHeader.txt
+ResponseHeaderFile=t10_ResponseHeader.txt
+RawStepEndTime=0
+RawStepName=Search Flights Button
+RequestBodyFile=t10_RequestBody.txt
+RawStepStartTime=1686572477847
+URL1=http://localhost:1080/cgi-bin/welcome.pl?page=search

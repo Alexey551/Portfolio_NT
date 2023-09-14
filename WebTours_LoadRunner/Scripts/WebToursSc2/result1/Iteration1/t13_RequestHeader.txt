@@ -1,0 +1,12 @@
+POST /cgi-bin/reservations.pl HTTP/1.1
+Content-Type: application/x-www-form-urlencoded
+Cache-Control: no-cache
+Referer: http://localhost:1080/cgi-bin/reservations.pl?page=welcome
+User-Agent: Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0)
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: Keep-Alive
+Host: localhost:1080
+Cookie: MSO=SID&1686572466; MTUserInfo=firstName&_Savion&address2&_Estebanfurt&username&user31&hash&81&lastName&_Torphy%0A&address1&_Weberchester&creditCard&&expDate&%0A
+Content-Length: 255
+

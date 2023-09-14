@@ -1,0 +1,2 @@
+[Hosts]
+localhost=c:\loadtesting\webtours\results\webtours_20230615_maxperf_control\localhost_1.eve

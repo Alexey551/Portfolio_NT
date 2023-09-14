@@ -1,0 +1,14 @@
+  2023-06-12 17:17:28.293 : IterationNum=1
+   USER 1 = jojo:bean
+    2023-06-12 17:17:28.671 : Start page is opened
+    2023-06-12 17:17:35.183 : User is logged in with session 136619.86618064HAcHDitpDzzzzzzHtcVztpDAzc
+    2023-06-12 17:17:40.939 : Search page opened
+    2023-06-12 17:17:58.564 : Flights found : 842;2533;06/15/2023 and 480;2679;06/12/2023
+    2023-06-12 17:17:58.579 : Sity depart : Sydney, Sity arrive : Paris
+    2023-06-12 17:18:08.224 : Found Seat Type : First, Seat Pref : Window
+    2023-06-12 17:18:21.209 : Booking is complect
+    2023-06-12 17:18:25.290 : Go to Home Page is complete
+    2023-06-12 17:18:29.769 : Booking is created : 3089200834-1138862-jb
+    2023-06-12 17:18:39.017 : Booking (3089200834-1138862-jb) is deleted
+    2023-06-12 17:18:43.436 : User is logged out of session
+Vuser Terminated.

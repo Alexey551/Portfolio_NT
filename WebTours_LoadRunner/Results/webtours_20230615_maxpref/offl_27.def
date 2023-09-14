@@ -1,0 +1,18 @@
+[Graph definition]
+count=1
+GraphTitle=¬вод страниц/сек (ѕам€ть)
+DataPointLabel_1=offline_datapoint_27
+LineTitle_1=localhost
+LineGroup_1=0
+YAxisTitle=¬вод страниц/сек (ѕам€ть)
+GraphGroupMenuTitle=Windows Resources
+XAxisTitle=Elapsed Scenario Time (seconds)
+XAxisIsElapsedTime=TRUE
+LineType=NOSTEP
+BuildUnderLoadGraph=TRUE
+AggregateFunction=AVG
+MissingData=PREVIOUS
+GranularityMode=NOTINCLUDEZERO
+NoDataBehavior=RemoveGraph
+GraphType=es_rm_svr_res_nt
+DataPointDescr_1=¬вод страниц/сек - это количество страниц, считанных с диска при разрешении ссылок на страницы, которые отсутствуют в пам€ти в момент обработки ссылки. ќшибка страницы возникает, когда поток ссылаетс€ на страницу виртуальной пам€ти, котора€ не находитс€ в рабочем наборе оперативной пам€ти. Ётот счетчик учитывает также подкачку (страничный обмен), выполн€емый системной кэш-пам€тью дл€ доступа к данным, запрашиваемым приложени€ми. Ёто важный источник сведений дл€ вы€влени€ чрезмерной нагрузки на пам€ть и возникающего вследствие этого чрезмерного страничного обмена.

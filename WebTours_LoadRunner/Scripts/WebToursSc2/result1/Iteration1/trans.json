@@ -1,0 +1,32 @@
+[
+    {
+        "transactionName": "00_OpenStartPage",
+        "rawStartTime": 1686572466578,
+        "rawEndTime": 1686572466906
+    },
+    {
+        "transactionName": "01_DoLogin",
+        "rawStartTime": 1686572471317,
+        "rawEndTime": 1686572471536
+    },
+    {
+        "transactionName": "02_OpenFlights",
+        "rawStartTime": 1686572477832,
+        "rawEndTime": 1686572478049
+    },
+    {
+        "transactionName": "03_DoSearchRoundTripTicket",
+        "rawStartTime": 1686572493390,
+        "rawEndTime": 1686572493498
+    },
+    {
+        "transactionName": "04_SelectionRandomRoundTripFlights",
+        "rawStartTime": 1686572502833,
+        "rawEndTime": 1686572502911
+    },
+    {
+        "transactionName": "09_ DoLogout",
+        "rawStartTime": 1686572507806,
+        "rawEndTime": 1686572507979
+    }
+]

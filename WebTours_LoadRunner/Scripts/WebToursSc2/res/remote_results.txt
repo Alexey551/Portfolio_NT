@@ -1,0 +1,2 @@
+[Hosts]
+localhost=C:\LoadTesting\WebTours\Scripts\WebToursSc1\res\localhost_1.eve

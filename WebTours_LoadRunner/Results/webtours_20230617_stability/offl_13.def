@@ -1,0 +1,18 @@
+[Graph definition]
+count=1
+GraphTitle=Ошибок страницы/с (Память)
+DataPointLabel_1=offline_datapoint_13
+LineTitle_1=localhost
+LineGroup_1=0
+YAxisTitle=Ошибок страницы/с (Память)
+GraphGroupMenuTitle=Windows Resources
+XAxisTitle=Elapsed Scenario Time (seconds)
+XAxisIsElapsedTime=TRUE
+LineType=NOSTEP
+BuildUnderLoadGraph=TRUE
+AggregateFunction=AVG
+MissingData=PREVIOUS
+GranularityMode=NOTINCLUDEZERO
+NoDataBehavior=RemoveGraph
+GraphType=es_rm_svr_res_nt
+DataPointDescr_1=Ошибок страницы физической памяти/сек - это значение счетчика ошибок страницы. Ошибка страницы возникает, когда процесс ссылается на страницу виртуальной памяти, которая не находится в рабочем множестве оперативной памяти. Данный счетчик учитывает как те ошибки страницы физической памяти, которые требуют обращения к диску, так и те, которые вызваны нахождением страницы вне рабочего множества в оперативной памяти. Большинство процессоров могут обрабатывать ошибки страницы второго типа без особых задержек. Однако, обработка ошибок страницы физической памяти, требующая доступа к диску, может привести к значительным задержкам.

@@ -1,0 +1,18 @@
+[Graph definition]
+count=1
+GraphTitle=Скорость чтения с диска (байт/с) (Физический диск 1 C:)
+DataPointLabel_1=offline_datapoint_12
+LineTitle_1=localhost
+LineGroup_1=0
+YAxisTitle=Скорость чтения с диска (байт/с) (Физический диск 1 C:)
+GraphGroupMenuTitle=Windows Resources
+XAxisTitle=Elapsed Scenario Time (seconds)
+XAxisIsElapsedTime=TRUE
+LineType=NOSTEP
+BuildUnderLoadGraph=TRUE
+AggregateFunction=AVG
+MissingData=PREVIOUS
+GranularityMode=NOTINCLUDEZERO
+NoDataBehavior=RemoveGraph
+GraphType=es_rm_svr_res_nt
+DataPointDescr_1=Скорость чтения с диска (байт/с) - это скорость, с которой происходит передача данных с этого диска при выполнении операций чтения.

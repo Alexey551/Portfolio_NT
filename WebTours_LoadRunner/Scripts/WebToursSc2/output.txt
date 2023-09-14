@@ -1,0 +1,10 @@
+  2023-06-12 17:21:06.546 : IterationNum=1
+   USER 1 = user31:pwd31
+    2023-06-12 17:21:06.922 : Start page is opened
+    2023-06-12 17:21:11.551 : User is logged in with session 136619.883839611HAcHDifpcHftcVztpDVVzf
+    2023-06-12 17:21:18.066 : Search page opened
+    2023-06-12 17:21:33.545 : Flights found : 010;559;06/15/2023 and 103;458;06/12/2023
+    2023-06-12 17:21:33.561 : Sity depart : Denver, Sity arrive : Frankfurt
+    2023-06-12 17:21:42.928 : Found Seat Type : Business, Seat Pref : None
+    2023-06-12 17:21:47.995 : User is logged out of session
+Vuser Terminated.

@@ -1,0 +1,18 @@
+[Graph definition]
+count=1
+GraphTitle=Длина очереди процессора (Система)
+DataPointLabel_1=offline_datapoint_20
+LineTitle_1=localhost
+LineGroup_1=0
+YAxisTitle=Длина очереди процессора (Система)
+GraphGroupMenuTitle=Windows Resources
+XAxisTitle=Elapsed Scenario Time (seconds)
+XAxisIsElapsedTime=TRUE
+LineType=NOSTEP
+BuildUnderLoadGraph=TRUE
+AggregateFunction=AVG
+MissingData=PREVIOUS
+GranularityMode=NOTINCLUDEZERO
+NoDataBehavior=RemoveGraph
+GraphType=es_rm_svr_res_nt
+DataPointDescr_1=Длина очереди процессора - это текущая длина очереди процессора, измеряемая числом ожидающих потоков. Все процессоры используют одну общую очередь, в которой потоки ожидают получения циклов процессора. Этот счетчик не включает потоки, которые выполняются в настоящий момент. Длительное время существующая очередь длиной больше двух потоков обычно свидетельствует о перегруженности процессора. Этот счетчик отражает текущее значение, и не является средним значением по некоторому интервалу времени.

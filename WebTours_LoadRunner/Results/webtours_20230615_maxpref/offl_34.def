@@ -1,0 +1,18 @@
+[Graph definition]
+count=1
+GraphTitle=Доступно байт (Память)
+DataPointLabel_1=offline_datapoint_34
+LineTitle_1=localhost
+LineGroup_1=0
+YAxisTitle=Доступно байт (Память)
+GraphGroupMenuTitle=Windows Resources1
+XAxisTitle=Elapsed Scenario Time (seconds)
+XAxisIsElapsedTime=TRUE
+LineType=NOSTEP
+BuildUnderLoadGraph=TRUE
+AggregateFunction=AVG
+MissingData=PREVIOUS
+GranularityMode=NOTINCLUDEZERO
+NoDataBehavior=RemoveGraph
+GraphType=es_rm_svr_res_nt
+DataPointDescr_1=Доступно байт — это объем физической памяти в байтах, немедленно доступной для выделения процессу или для использования системой. Эта величина равна сумме памяти, выделенной для кэша, свободной памяти и обнуленных страниц памяти.

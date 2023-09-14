@@ -1,0 +1,18 @@
+[Graph definition]
+count=1
+GraphTitle=¬ывод страниц/с (ѕам€ть)
+DataPointLabel_1=offline_datapoint_6
+LineTitle_1=localhost
+LineGroup_1=0
+YAxisTitle=¬ывод страниц/с (ѕам€ть)
+GraphGroupMenuTitle=Windows Resources
+XAxisTitle=Elapsed Scenario Time (seconds)
+XAxisIsElapsedTime=TRUE
+LineType=NOSTEP
+BuildUnderLoadGraph=TRUE
+AggregateFunction=AVG
+MissingData=PREVIOUS
+GranularityMode=NOTINCLUDEZERO
+NoDataBehavior=RemoveGraph
+GraphType=es_rm_svr_res_nt
+DataPointDescr_1=¬ывод страниц/сек - это счетчик записи страниц на диск, выполн€емой дл€  освобождени€ места в оперативной пам€ти. —траницы записываютс€ на диск только в том случае, если они были изменены в оперативной пам€ти, поэтому они веро€тнее всего содержат данные, а не программный код. ¬ысока€ дол€ вывода страниц может свидетельствовать о нехватке оперативной пам€ти. Windows записывает большее число страниц на диск дл€ освобождени€ пам€ти, если на компьютере возникает нехватка оперативной пам€ти.  Ётот счетчик отображает число страниц, и удобен дл€ сравнени€ с другими счетчиками страниц без дополнительных преобразований.

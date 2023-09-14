@@ -1,0 +1,17 @@
+[
+    {
+        "transactionName": "00_OpenStartPage",
+        "rawStartTime": 1686572744229,
+        "rawEndTime": 1686572744558
+    },
+    {
+        "transactionName": "01_DoLogin",
+        "rawStartTime": 1686572750286,
+        "rawEndTime": 1686572750504
+    },
+    {
+        "transactionName": "09_ DoLogout",
+        "rawStartTime": 1686572756535,
+        "rawEndTime": 1686572756690
+    }
+]

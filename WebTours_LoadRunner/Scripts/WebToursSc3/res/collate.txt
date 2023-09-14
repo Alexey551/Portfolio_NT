@@ -1,0 +1,5 @@
+[Diagnostics]
+Status=-1
+[Collate Recovery]
+Scenario=C:\LoadTesting\WebTours\Scenario\Scenario2.lrs
+Completed=0

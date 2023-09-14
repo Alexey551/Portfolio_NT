@@ -1,0 +1,36 @@
+[Scenario]
+Product=HPE LoadRunner Controller
+Version=12.55.0.0
+Path=C:\LoadTesting\WebTours\Scenario\ScenarioWebTours_20230617_stability.lrs
+Subject=Scenario4_long
+Result_file=c:\loadtesting\webtours\results\webtours_20230617_stability\webtours_20230617_stability.lrr
+Description=
+ResultName=webtours_20230617_stability
+Time_Zone=-18000
+Start_time=1686992725
+Daylight_Bias=0
+Stop_time=1687023113
+[Configuration]
+Public_local=1
+Is_mix=1
+Is_runner_file=0
+Runner_file=
+[Running_mode]
+Start_reason=By command
+Stop_reason=By a user
+[Data Collection]
+FullData=1
+[Scenario_summary]
+Scenario Type=Manual Scenario
+Goal Profile Name=Group schedule for: webtourssc2
+Mode=Group Scheduling
+Scenario Duration=Unknown duration
+Load Behavior=Defined per scenario group
+[Scripts]
+WebToursSc3=C:\LoadTesting\WebTours\Scripts\WebToursSc3\WebToursSc3.usr
+WebToursSc2=C:\LoadTesting\WebTours\Scripts\WebToursSc2\WebToursSc2.usr
+WebToursSc1=C:\LoadTesting\WebTours\Scripts\WebToursSc1\WebToursSc1.usr
+[Scripts_types]
+WebToursSc3=Multi+QTWeb
+WebToursSc2=Multi+QTWeb
+WebToursSc1=Multi+QTWeb

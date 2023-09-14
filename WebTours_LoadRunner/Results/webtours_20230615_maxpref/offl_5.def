@@ -1,0 +1,18 @@
+[Graph definition]
+count=1
+GraphTitle=Потоки (Система)
+DataPointLabel_1=offline_datapoint_5
+LineTitle_1=localhost
+LineGroup_1=0
+YAxisTitle=Потоки (Система)
+GraphGroupMenuTitle=Windows Resources
+XAxisTitle=Elapsed Scenario Time (seconds)
+XAxisIsElapsedTime=TRUE
+LineType=NOSTEP
+BuildUnderLoadGraph=TRUE
+AggregateFunction=AVG
+MissingData=PREVIOUS
+GranularityMode=NOTINCLUDEZERO
+NoDataBehavior=RemoveGraph
+GraphType=es_rm_svr_res_nt
+DataPointDescr_1=Счетчик потоков - это количество потоков в компьютере в момент сбора информации. Данный показатель представляет собой конкретное текущее значение, и не является средним значением по некоторому интервалу времени. Поток - это базовый объект, который занят выполнением инструкций с помощью процессора.

@@ -1,0 +1,52 @@
+[
+    {
+        "transactionName": "00_OpenStartPage",
+        "rawStartTime": 1691256430222,
+        "rawEndTime": 1691256430456
+    },
+    {
+        "transactionName": "01_DoLogin",
+        "rawStartTime": 1691256435534,
+        "rawEndTime": 1691256435670
+    },
+    {
+        "transactionName": "02_OpenFlights",
+        "rawStartTime": 1691256440654,
+        "rawEndTime": 1691256440780
+    },
+    {
+        "transactionName": "03_DoSearchRoundTripTicket",
+        "rawStartTime": 1691256458682,
+        "rawEndTime": 1691256458741
+    },
+    {
+        "transactionName": "04_SelectionRandomRoundTripFlights",
+        "rawStartTime": 1691256467588,
+        "rawEndTime": 1691256467645
+    },
+    {
+        "transactionName": "05_CompletionBooking",
+        "rawStartTime": 1691256483092,
+        "rawEndTime": 1691256483157
+    },
+    {
+        "transactionName": "06_GoToHomePage",
+        "rawStartTime": 1691256487534,
+        "rawEndTime": 1691256487662
+    },
+    {
+        "transactionName": "07_ OpeningBookingList",
+        "rawStartTime": 1691256491729,
+        "rawEndTime": 1691256491855
+    },
+    {
+        "transactionName": "08_ DeletingBooking",
+        "rawStartTime": 1691256500581,
+        "rawEndTime": 1691256500638
+    },
+    {
+        "transactionName": "09_ DoLogout",
+        "rawStartTime": 1691256505650,
+        "rawEndTime": 1691256505776
+    }
+]

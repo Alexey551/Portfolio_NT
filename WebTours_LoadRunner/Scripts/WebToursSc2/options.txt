@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\LoadTesting\WebTours\Scripts\WebToursSc2
+-IC:\Program Files (x86)\HPE\LoadRunner\include
+-ec:\loadtesting\webtours\scripts\webtourssc2\\logfile.log
+c:\loadtesting\webtours\scripts\webtourssc2\\combined_WebToursSc2.c
+c:\loadtesting\webtours\scripts\webtourssc2\\pre_cci.c

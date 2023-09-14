@@ -1,0 +1,5 @@
+  2023-06-12 17:16:20.802 : IterationNum=1
+   USER 1 = user31:bean
+    2023-06-12 17:16:21.194 : Start page is opened
+Login.c(90): Error -26366: "Text=User password was correct" not found for web_reg_find  	[MsgId: MERR-26366]
+Vuser Terminated.
